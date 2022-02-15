@@ -1,4 +1,4 @@
-# Parkind lot
+# Version Control System
 
 Kotlin training project from JetBrains Academy.
 Writing a simple version control system.
